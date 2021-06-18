@@ -1,0 +1,2 @@
+regel.tmx
+regel_middle_collision.tmx
